@@ -5,31 +5,10 @@ A zsh function that launches [Claude Code](https://claude.com/claude-code) with
 warning: a bouncing block-letter **DANGER!** banner while a swarm of little
 Claude logos pops in at random spots around it.
 
-```
-       ▐▛███▜▌
-      ▝▜█████▛▘          ▐▛███▜▌
-        ▘▘ ▝▝           ▝▜█████▛▘     ▐▛███▜▌    ▐▛███▜▌  ▐▛███▜▌   ▐▛███▜▌
-         ▐▛███▜▌          ▘▘ ▝▝      ▝▜█████▛▘  ▝▜█████▛▘▝▜█████▛▘ ▝▜█████▛▘
-        ▝▜█████▛▘           ▐▛███▜▌    ▘▘ ▝▝      ▘▘ ▝▝    ▘▘ ▝▝     ▘▘ ▝▝
-          ▘▘ ▝▝            ▝▜█████▛▘
-                             ▘▘ ▝▝
-   ▐▛███▜▌
-  ▝▜█████▛▘  ██████╗  █████╗ ███╗   ██╗ ██████╗ ███████╗██████╗ ██╗
-    ▘▘ ▝▝    ██╔══██╗██╔══██╗████╗  ██║██╔════╝ ██╔════╝██╔══██╗██║
-             ██║  ██║███████║██╔██╗ ██║██║  ███╗█████╗  ██████╔╝██║
-             ██║  ██║██╔══██║██║╚██╗██║██║   ██║██╔══╝  ██╔══██╗╚═╝
-  ▐▛███▜▌    ██████╔╝██║  ██║██║ ╚████║╚██████╔╝███████╗██║  ██║██╗
- ▝▜█████▛▘   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
-   ▘▘ ▝▝
-   ▐▛███▜▌
-  ▝▜█████▛▘                                 ▐▛███▜▌               ▐▛███▜▌
-    ▘▘ ▝▝               ▐▛███▜▌            ▝▜█████▛▘             ▝▜█████▛▘
-                       ▝▜█████▛▘             ▘▘ ▝▝                 ▘▘ ▝▝
-                         ▘▘ ▝▝
-```
+![danger in action](danger.gif)
 
-In the terminal the letters ripple up and down in a wave and the Claudes
-appear one by one — every run scatters them differently.
+The letters ripple up and down in a wave and the Claudes appear one by
+one — every run scatters them differently.
 
 ## Install
 
